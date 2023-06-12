@@ -35,12 +35,10 @@ textarea {
     box-shadow: 0 0 2px rgb(0,0,0,0.2);
     border: 20px solid #34495e;
     border-radius: 10px 10px 0 0;
+    padding: 15px;
     color: white;
 }
 
-textarea::placeholder {
-    padding: 15px 0 0 15px ;
-}
 .mainbtn {
     padding: 10px 20px;
     border-radius: 20px;
